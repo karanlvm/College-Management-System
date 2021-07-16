@@ -103,3 +103,9 @@
 .buttons button:hover{
     background: #cc0000;
 }
+
+nav ul li ul{
+    display: block;
+    position: absolute;
+    background-color: #fff;
+}
