@@ -12,8 +12,8 @@
             <ul>
                 <li><a class="active" href="#"> Home </a></li>
                 <li><a href="#"> Courses </a></li>
-                <li><a href="#">Teacher Login</a></li>
-                <li><a href="#">Student Login</a></li>
+                    <li><?php echo '<a href="slogin.php"> Students Login</a>';?></li>
+                    <li><?php echo '<a href="tlogin.php"> Teachers Login</a>';?></li>
             </ul>
         </nav>
         <div class="center">
